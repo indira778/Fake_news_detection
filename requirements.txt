@@ -1,0 +1,6 @@
+
+**📦 requirements.txt**
+```txt
+pandas
+scikit-learn
+joblib
